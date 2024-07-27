@@ -1,3 +1,3 @@
-# Flashcards-React
+# Accordion Component
 
 React exercise
